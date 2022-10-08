@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+This is a simple counter app, but if you look at the code; i have used the useState and the createContex hooks to move the state and the button click handlers up where they can be reused if need be by othe components
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
